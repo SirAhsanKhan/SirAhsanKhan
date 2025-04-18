@@ -61,6 +61,9 @@
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> 
     </a> 
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
+      <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikiversity.org%2Fwiki%2FPython&psig=AOvVaw0VxLl7p_5syEoSch07FfMq&ust=1745070025746000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMingsra4YwDFQAAAAAdAAAAABAE" alt="Python" width="40" height="40"/> 
+    </a> 
   </p>
 </div>
 
