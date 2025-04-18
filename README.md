@@ -16,7 +16,7 @@
   - 🌱 I’m currently learning **Frameworks, Full Stack Development**
   - 🤝 I’m looking for **Internships**
   - 📝 I regularly post on [LinkedIn](https://www.linkedin.com/in/ahsan-khan-6a8b902b4/)
-  - 💬 Ask me about **NEXT.JS, HTML, CSS, TypeScript**
+  - 💬 Ask me about **NEXT.JS, Python, TypeScript**
   - 📫 Reach me at **afzalahsankhan283@gmail.com**
   - ⚡ Fun fact: **I am sure I am workaholic**
 </div>
