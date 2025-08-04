@@ -1,77 +1,18 @@
-<h1 align="center">Hi 👋, I'm Ahsan Khan</h1>
-<h3 align="center">A passionate Full Stack Developer from Pakistan</h3>
+# 💫 About Me:
+hi there, Looking for  a full stack website or an agent for your existing buisness<br>i am Ahsan Khan , a full stack and agentic ai developer<br>i work at ieps as a backend enginner and a agentic ai consultant<br>
 
-<div style="background-color: #f0f0f0; padding: 20px; border-radius: 10px;">
-  <p align="center">
-    <img src="https://user-images.githubusercontent.com/yourgif.gif" alt="welcome-gif" width="400"/>
-  </p>
 
-  <p align="left"> 
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=sirahsankhan" alt="sirahsankhan" />
-    </a> 
-  </p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ahsan-khan-6a8b902b4/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:afzalahsankhan283@gmail.com) 
 
-  - 🔭 I’m currently working on **Multiple projects**
-  - 🌱 I’m currently learning **Frameworks, Full Stack Development**
-  - 🤝 I’m looking for **Internships**
-  - 📝 I regularly post on [LinkedIn](https://www.linkedin.com/in/ahsan-khan-6a8b902b4/)
-  - 💬 Ask me about **NEXT.JS, Python, TypeScript**
-  - 📫 Reach me at **afzalahsankhan283@gmail.com**
-  - ⚡ Fun fact: **I am sure I am workaholic**
-</div>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SirAhsanKhan&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=SirAhsanKhan&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SirAhsanKhan&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=SirAhsanKhan&icon=0&color=3)](https://visitcount.itsvg.in)
 
-<h3 align="left">Connect with me:</h3>
-<div style="background-color: #e6e6fa; padding: 15px; border-radius: 10px;">
-  <p align="left">
-    <a href="https://twitter.com/itzahsankhan" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itzahsankhan" height="30" width="40" />
-    </a>
-    <a href="https://www.linkedin.com/in/ahsan-khan-6a8b902b4/" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ahsan Khan LinkedIn" height="30" width="40" />
-    </a>
-  </p>
-</div>
-
----
-
-<h3 align="left">Languages and Tools:</h3>
-<div style="background-color: #fdfd96; padding: 15px; border-radius: 10px;">
-  <p align="left"> 
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> 
-    </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
-    </a> 
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-      <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/> 
-    </a> 
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> 
-    </a> 
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
-      <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikiversity.org%2Fwiki%2FPython&psig=AOvVaw0VxLl7p_5syEoSch07FfMq&ust=1745070025746000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMingsra4YwDFQAAAAAdAAAAABAE" alt="Python" width="40" height="40"/> 
-    </a> 
-  </p>
-</div>
-
----
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sirahsankhan&show_icons=true&locale=en&layout=compact" alt="sirahsankhan" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sirahsankhan&show_icons=true&locale=en" alt="sirahsankhan" /></p>
-  <img src="![git](https://github.com/user-attachments/assets/f8a706de-1ce1-4d6b-b985-951e010ffc61)
-" alt="coding-gif" width="400"/>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
